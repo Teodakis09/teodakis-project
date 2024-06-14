@@ -1,0 +1,16 @@
+body{background: rgb(4,31,42);
+    background: linear-gradient(90deg, rgba(4,31,42,1) 0%, rgba(10,46,82,1) 80%);}
+    h1{text-align:center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: rgba(255, 255, 255, 0.7);font-size: 70px;}
+    img{height: 400px;
+    width: 100%;
+margin: 0px;
+}
+a{text-decoration: none; color: rgba(255, 255, 255, 0.7);}
+h2{text-align:center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: rgba(255, 255, 255, 0.7);font-size: 50px;}
+body, html
+  {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin:0px;
+  }
