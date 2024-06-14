@@ -1,0 +1,41 @@
+h1{text-align:center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color: rgba(255, 255, 255, 0.7);font-size: 70px;}
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  margin: 0px;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%, rgba(3, 10, 109, 0.904) 100%);}
+a{text-decoration: none;font-size: px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;transition-property: transform;transition-duration: 0.1s;transition-timing-function: ease-in-out;border-radius: 10px;}
+nav{ background: rgb(4,15,35);
+  background: linear-gradient(19deg, rgba(4,15,35,1) 0%, rgba(131,175,222,1) 56.99999999999999%, rgba(13,24,46,1) 97%);}
+
+
+body, html
+  {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin:0px;
+  }
+  img{ 
+    width: 100%;
+    height: 40%;
+     
+    margin:0px
+    
+  }
+ .navbar{position:  relative;top: -20px;}
+  .navbar ul{list-style-type: none;
+  padding: 0px;
+  margin:0px;
+overflow:hidden;}
+  .navbar a{color: antiquewhite;
+  padding: 15px;
+display: block;text-align: center;}
+.navbar a:hover{transform: scale(105%) ;border-radius: 0px;}
+.navbar li{float:center;}
+  .navbar a{transition-property: transform;transition-duration: 0.1s;transition-timing-function: ease-in-out;border-radius: 10px;}
+  h2{color:rgba(255, 255, 255, 0.7) ;font-size: 20px;}
+  h3{color:rgba(255, 255, 255, 0.7) ;}
